@@ -12,8 +12,7 @@ Welcome to **Cipher App**, a secure and anonymous chat experience built from scr
 📜 **Daily Skanda Purana Verse:**
 Every day, I will share one verse from the sacred Skanda Purana within the app to inspire and uplift.
 
-🛑 **Why not on Play Store yet?**
-Currently, I cannot afford the $25 Play Store developer fee, so I'm sharing the app here for free download.
+
 
 📲 **How to get the app:**
 - Download the APK file from the [Releases section](https://github.com/Skanda498/Cipher-App/releases)
