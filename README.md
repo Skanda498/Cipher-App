@@ -9,8 +9,7 @@ Welcome to **Cipher App**, a secure and anonymous chat experience built from scr
 - Clean and simple UI
 - Built entirely using open-source technologies
 
-📜 **Daily Skanda Purana Verse:**
-Every day, I will share one verse from the sacred Skanda Purana within the app to inspire and uplift.
+
 
 
 
